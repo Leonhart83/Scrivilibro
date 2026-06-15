@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "notes": "- Implementato aggiornamenti automatici",
+  "version": "1.0.7",
+  "notes": "- Test aggiornamento silenzioso",
   "downloadUrl": "https://github.com/Leonhart83/scrivilibro/releases/latest/download/ScriviLibro-Setup.exe"
 }
